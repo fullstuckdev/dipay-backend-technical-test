@@ -59,3 +59,4 @@ $ npm run start:dev
 **Note**
 1. Pastikan main-script dan mail-service jalan secara bersamaan
 2. Main-script berjalan pada port 3000, sedangkan mail-service berjalan pada port 4000
+3. Saya juga telah membuat Makefile agar memudahkan untuk menjalankan script
